@@ -28,7 +28,7 @@ Laravel-based API for managing orders and payments with extensible payment gatew
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ahmed-tahoon/Tocaan)
 cd tocaan
 ```
 
